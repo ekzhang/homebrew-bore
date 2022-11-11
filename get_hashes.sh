@@ -3,7 +3,7 @@
 set -e
 
 PREFIX=https://github.com/ekzhang/bore/releases/download
-VERSION=0.4.0
+VERSION=0.4.1
 
 get_hash () {
   echo "Platform: $1"
